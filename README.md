@@ -1,7 +1,7 @@
 <div align="center">
 <!-- Title: -->
-  <a href="https://github.com/TheDisk/">
-    <img src="https://raw.githubusercontent.com/AStupidPerson3141/Gustav/SpinningDisk/LOGO.svg" height="300">
+  <a href="https://github.com/AStupidPerson3141/">
+    <img src="https://raw.githubusercontent.com/AStupidPerson3141/Gustav/SpinningDisk/LOGO.svg?token=GHSAT0AAAAAACU33IH4DBFHQN4UFKBBYT3MZU57N2A" height="300">
   </a>
   <h1><a href="https://github.com/TheAlgorithms/">The Algorithms</a> - Python</h1>
 <!-- Labels: -->
