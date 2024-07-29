@@ -1,0 +1,6 @@
+#IDE
+.idea
+#Dependencies
+venv
+#Dependenciesö
+.venv
