@@ -4,3 +4,5 @@
 venv
 #Dependenciesö
 .venv
+#created by make
+activate_venv.sh
