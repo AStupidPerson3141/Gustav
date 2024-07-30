@@ -1,6 +1,6 @@
 # Gustav
 
-<img src="Frame 1 3.svg">
+<img src="https://raw.githubusercontent.com/AStupidPerson3141/Gustav/README/Frame%201%203.svg">
 
 ### this is only temporary. we'll get a proper logo soon.
 
