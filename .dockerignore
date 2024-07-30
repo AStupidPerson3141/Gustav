@@ -4,3 +4,6 @@ dockerfile
 .venv
 venv
 .gitignore
+depends.py
+requirenments.txt
+activate_venv.sh
