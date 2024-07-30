@@ -1,7 +1,8 @@
 # Gustav
 
 <img src="Frame 1 3.svg">
-<p this is only temporary. we'll get a proper logo soon.>
+
+### this is only temporary. we'll get a proper logo soon.
 
 ## table of contents
 1. [description](#description)
@@ -13,7 +14,7 @@
 ## description
 Gustav is an AI powered drone, which will follow the user like a sort of pet. It's designed for:
 - Raspberry pi (preferably 5)
-- BLDS motors (so 3phase motors)
+- BLDC motors (so 3phase motors)
 though I hope that we can generalize that at some point (so it runs more efficient for cheaper raspberry pis, and can use two phase motors)
 
 
